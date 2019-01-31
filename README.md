@@ -1,4 +1,4 @@
 # TDNeuron
 Touchdesigner machine learning framework
 
-Coming soon in January 2019
+Coming soon in q1 2019
