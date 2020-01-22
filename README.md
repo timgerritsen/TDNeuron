@@ -1,4 +1,4 @@
 # TDNeuron
 Touchdesigner machine learning framework
 
-Coming soon in q1 2019
+Moved to [github.com/tdneuron/TDNeuron](https://github.com/tdneuron/TDNeuron)
